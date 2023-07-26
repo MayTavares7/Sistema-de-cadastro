@@ -5,6 +5,6 @@
 Para rodar na sua maquina você precisa digitar:)
 
 ```
-node app.js
+Curso de git e GitHub na alura. Aprendendo git pelo CMD 
 ```
 
